@@ -1,0 +1,23 @@
+{
+  "name": "stereographicconverter",
+  "version": "1.0.0",
+  "description": "Converts stereographic positions to geodetic positins (WGS84) with respect to a reference position",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stereographic",
+    "geodetic"
+  ],
+  "author": "Zeki Irkdas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozaydin/stereographicconverter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rozaydin/stereographicconverter/issues"
+  },
+  "homepage": "https://github.com/rozaydin/stereographicconverter#readme"
+}
